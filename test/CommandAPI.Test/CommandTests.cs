@@ -4,7 +4,7 @@ using CommandAPI.Models;
 namespace CommandAPI.Tests
 {
     public class CommandTests : IDisposable
-    {
+    {//co
         Command testCommand;
         public CommandTests()
         {
